@@ -19,7 +19,6 @@ flyway:
   sql-migration-prefix: V
   sql-migration-suffix: .sql
   sqlMigrationSeparator: __
-  baseline-on-migrate: true
   validateOnMigrate: true
   baselineVersion: 0.9
   #use below property to allow placeholders in db queries.
